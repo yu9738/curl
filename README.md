@@ -23,7 +23,7 @@ manpage](https://curl.se/libcurl/c/libcurl.html) to learn how.
 curl is Open Source and is distributed under an MIT-like
 [license](https://curl.se/docs/copyright.html).
 
-## Contact
+## Contact 
 
 Contact us on a suitable [mailing list](https://curl.se/mail/) or
 use GitHub [issues](https://github.com/curl/curl/issues)/
